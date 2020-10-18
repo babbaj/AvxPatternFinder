@@ -8,4 +8,4 @@ set(CompilerFlags
         CMAKE_CXX_FLAGS
         CMAKE_CXX_FLAGS_DEBUG)
 
-add_executable(untitled main.cpp IncrementalAllocator.h ParallelExecutor.h)
+add_executable(untitled main.cpp)
